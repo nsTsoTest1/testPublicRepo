@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" 
+    pageURI="http://www.london-gazette.co.uk/indexes/2010/1/008"
+     rdfURI="http://www.london-gazette.co.uk/indexes/2010/1/008?view=linked-data2"
+    >
   <ItemGroup>
     <MainItem>
       <Key>2 INDEX TO THE LONDON GAZETTE VOL. I</Key>
@@ -711,7 +714,8 @@
       <PageNumber>557</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Duchy of Cornwall:</SectionTitle>
+  <SectionTitle>Duc
+    hy of Cornwall:</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Duchy of Cornwall:High Sheri</Key>
